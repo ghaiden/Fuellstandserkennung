@@ -8,7 +8,6 @@ class App():
     def __init__(self):
         # Hauptfenster
         self.root = tk.Tk()
-        self.counter = 0
         self.root.title('Füllstandserkennung')
         self.root.geometry('1920x1200')
         self.root.resizable(True, False)
