@@ -255,7 +255,6 @@ class App():
         if ret:
             image = cv2.resize(image, (1208, 684)) 
             cv2.imwrite(r'C:\Fuellstand\Camera.bmp', image)
-            return image
         else:
             self.label_KAMERASTATUS['text'] = 'Camera disconnected'
             self.label_KAMERASTATUS['foreground'] = 'red'
