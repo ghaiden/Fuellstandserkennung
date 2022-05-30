@@ -22,7 +22,7 @@ class App():
         self.label_UHR.place(x=1820, y=15)
            
         # Kamerastatus
-        self.label_KAMERASTATUS = tk.Label(text='Kamerastatus', font=('Arial', 16), foreground='green')
+        self.label_KAMERASTATUS = tk.Label(text='Camera disconnected', font=('Arial', 16), foreground='red')
         self.label_KAMERASTATUS.place(x=1250, y=15)
   
         # Prüfbild
