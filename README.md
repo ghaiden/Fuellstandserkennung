@@ -4,7 +4,7 @@ In dieser App werden duch ein Kamerasystem an 4 definierten Punkten (Stellplätz
 
 Sind die RGB-Farbwerte überhalb dieses Toleranzbereiches, so ist die Farbe an dieser Stelle eher heller. Es kann erkannt werden, dass das Gewürzglas leer ist und somit nachbestellt werden muss.
 
-Die Gläser 1, 2 und 4 weisen an den Messpunkten IST-Farbwerte von unter 100 auf, somit sind die Gläser noch mit Gewürzen gefüllt. Das Glas 3 weist einen Farbwert von  
+Die Gläser 1, 2 und 4 weisen an den Messpunkten IST-Farbwerte von unter 100 auf, somit sind die Gläser noch mit Gewürzen gefüllt. Das Glas 3 weist RGB-Farbwerte von ca. 160 - 180 aus. Dies spricht für eine helle Farbe an dieser Stelle und somit für ein leeres Gewürzglas.
 
 
 ![Image](https://github.com/ghaiden/Fuellstandserkennung/blob/main/images/GUI.JPG)
